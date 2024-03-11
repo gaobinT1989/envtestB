@@ -1,0 +1,2 @@
+# envtestB
+An GOOD enviroment
