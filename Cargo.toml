@@ -1,14 +1,14 @@
 [package]
-name = "enumn"
+name = "envtestB"
 version = "0.1.13"
 authors = ["David Tolnay <dtolnay@gmail.com>"]
 categories = ["rust-patterns", "no-std", "no-std::no-alloc"]
 description = "Convert number to enum"
-documentation = "https://docs.rs/enumn"
+documentation = "https://docs.rs/envtestB"
 edition = "2021"
 keywords = ["enum", "integer"]
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/dtolnay/enumn"
+repository = "https://github.com/gaobinT1989/envtestB"
 rust-version = "1.56"
 
 [lib]
